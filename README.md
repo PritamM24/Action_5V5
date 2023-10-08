@@ -12,7 +12,7 @@ If you do want to play the game download the files run it in Unreal and then go 
 Content->Level and run the Stylized_Egypt_levelfinal.umap. If everything is right you would be able to play it.
 ## Demo
 
-Better to see the gae by itself but if not here are a few links-
+Better to see the game by itself but if not here are a few links-
 
 https://youtu.be/PF-6keB9KcA -> Map of the play area
 
